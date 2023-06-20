@@ -6,5 +6,5 @@ Prog learning system repository, web system written in Django Rest Framework and
 2.  Activate: In Windows, run: 
   tutorial-env\Scripts\activate.bat
    In Unix o MacOS, run:
-  source tutorial-env/bin/activate or in your code editor install pithon extension and select help > show all commands > select interpreter
+  source tutorial-env/bin/activate or in your code editor install python extension and select help > show all commands > select interpreter
 ```
